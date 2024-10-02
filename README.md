@@ -1,8 +1,8 @@
 # Meting Stemlokalen Europees Parlementsverkiezing van 2024
 Dit project heeft als doel de stemlokalen van de Europees-Parlementsverkiezing van 2024 te analyseren. Het is uitgevoerd door Centerdata in opdracht van de Kiesraad.
 Tijdens deze verkiezingen op 6 juni 2024 hebben kiezers gestemd in stemlokalen verspreid door het gehele land. Een stemlokaal is een locatie waar een of meer stembureaus zitting hebben zodat kiezers daar hun stem kunnen uitbrengen. 13,5 miljoen kiesgerechtigden konden hun stem uitbrengen in alle 342 gemeenten van Nederland en daarnaast in de drie openbare lichamen Bonaire, Sint Eustatius en Saba. Het aantal stemlokalen, hun kenmerken, afstanden en welke verbanden ze vertonen met de afstand zijn geanalyseerd. De uitkomsten van de analyses zijn weergegeven op landelijk-, gemeentelijk-, en wijkniveau.
-Zie ook dit nieuwsbericht en evaluatieadvies.
-URL nieuwsbericht: [Europees Parlementsverkiezing verliep voorspoedig, aandacht voor uitvoerbaarheid blijft nodig | Nieuwsbericht | Kiesraad.nl](https://www.kiesraad.nl/actueel/nieuws/2024/10/01/evaluatieadvies-europees-parlementsverkiezing-2024)
+Zie ook dit nieuwsbericht en evaluatieadvies.<br>
+URL nieuwsbericht: [Europees Parlementsverkiezing verliep voorspoedig, aandacht voor uitvoerbaarheid blijft nodig | Nieuwsbericht | Kiesraad.nl](https://www.kiesraad.nl/actueel/nieuws/2024/10/01/evaluatieadvies-europees-parlementsverkiezing-2024) <br>
 URL evaluatieadvies:: [Voorspoedig verlopen verkiezing | Advies | Kiesraad.nl](https://www.kiesraad.nl/adviezen-en-publicaties/adviezen/2024/10/01/evaluatieadvies-ep-2024-voorspoedig-verlopen-verkiezing)
 
 
